@@ -22,3 +22,23 @@ export default function Home() {
   )
 }
 
+export default function What() {
+  return (
+    <div className="container">
+      <Head>
+        <title>what</title>
+        <link rel="icon" href="/watchcatbg.ico" />
+      </Head>
+
+      <main>
+        <Header title="welcome, to nihilia" />
+        <p className="description">
+          what the FUCK
+        </p>
+      </main>
+
+      <Footer />
+    </div>
+  )
+}
+
