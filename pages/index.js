@@ -21,3 +21,24 @@ export default function Home() {
     </div>
   )
 }
+
+export default function NotHome() {
+  return (
+    <div className="container">
+      <Head>
+        <title>nihilia</title>
+        <link rel="icon" href="/watchcatbg.ico" />
+      </Head>
+
+      <main>
+        <Header title="welcome, to nihilia" />
+        <p className="description">
+          what the FUCK
+        </p>
+      </main>
+
+      <Footer />
+    </div>
+  )
+}
+
