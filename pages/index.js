@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="welcome, to nihilia" />
         <p className="description">
-          what the fuck <code>pages/index.js</code>
+          what the fuck <code>is this??</code>
         </p>
       </main>
 
