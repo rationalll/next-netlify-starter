@@ -22,7 +22,7 @@ export default function Home() {
   )
 }
 
-export default function What() {
+export default function Home.what() {
   return (
     <div className="container">
       <Head>
