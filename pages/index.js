@@ -7,7 +7,7 @@ export default function Home() {
     <div className="container">
       <Head>
         <title>nihilia</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/watchcatbg.ico" />
       </Head>
 
       <main>
