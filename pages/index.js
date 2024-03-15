@@ -22,11 +22,11 @@ export default function Home() {
   )
 }
 
-export default function NotHome() {
+export default function Home/what() {
   return (
     <div className="container">
       <Head>
-        <title>nihilia</title>
+        <title>what</title>
         <link rel="icon" href="/watchcatbg.ico" />
       </Head>
 
