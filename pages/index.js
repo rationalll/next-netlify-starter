@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="welcome, to nihilia" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          what the fuck <code>pages/is this??</code>
         </p>
       </main>
 
